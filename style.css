@@ -1,0 +1,23 @@
+.main-div {
+  font-size: 30px;
+  background-color: yellow;
+  width: 1200px;
+  height: 800px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.first-div {
+  background-color: brown;
+  align-self: center;
+}
+
+.second-div {
+  background-color: blue;
+}
+
+.third-div {
+  background-color: chocolate;
+}
